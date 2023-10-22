@@ -1,0 +1,2 @@
+[console_scripts]
+clean = cleaner_folder.clean:start
